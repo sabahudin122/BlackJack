@@ -1,1 +1,1 @@
-# BlackJack
+# BlackJack Igra za zabavu
